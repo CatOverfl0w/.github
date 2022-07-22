@@ -1,3 +1,0 @@
-# CatOverflow 
-
-In progress...
